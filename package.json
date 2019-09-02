@@ -1,6 +1,6 @@
 {
   "name": "rxjs-operators-bundle",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "bundle with all rxjs operators",
   "main": "dist/bundle.js",
   "author": "Sergey Todyshev <stodyshev@gmail.com>",
