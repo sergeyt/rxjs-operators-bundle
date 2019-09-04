@@ -6,7 +6,7 @@
   "author": "Sergey Todyshev <stodyshev@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "rxjs": "^6.5.2"
+    "rxjs": "^6.5.3"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
